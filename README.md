@@ -1,4 +1,4 @@
-# Website Monitoring
+# GO Bank
 
 Este é um aplicativo desenvolvido em Go que simula processos bancários, como saques, depósitos e transferências. Este projeto foi criado com o objetivo de aprender e praticar a linguagem Go e a orientação a objetos.
 
